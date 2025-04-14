@@ -16,6 +16,17 @@ Flight::route('/about', function () {
     Flight::render('about.php', array('title' => 'About'));
 });
 
+Flight::route('/proyectos', function () {
+    Flight::render('proyectos.php', array('title' => 'Proyectos'));
+});
+
+Flight::route('/registro', function () {
+    Flight::render('registro.php', array('title' => 'Registro'));
+});
+
+Flight::route('/login', function () {
+    Flight::render('login.php', array('title' => 'Login'));
+});
 #404
 Flight::map('notFound', function () {
     // Display custom 404 page
