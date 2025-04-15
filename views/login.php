@@ -57,7 +57,7 @@
                         </div>
                     </div>
                     <div class="text-center">
-                        <p>Trusted_by</p>
+                        <p class="text-white">Trusted by</p>
                         <div>
                             <img src="<?php echo __ROOT__; ?>/public/img/login/trusted_by.png" alt="Quantia Image" class="img-fluid">
                         </div>

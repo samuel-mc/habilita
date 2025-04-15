@@ -4,7 +4,7 @@
 
         <!-- Hero -->
         <section class="container-fluid position-relative p-0">
-            <img src="<?php echo __ROOT__; ?>/public/img/proyectos/hero.png" alt="hero" class="img-fluid w-100">
+            <img src="<?php echo __ROOT__; ?>/public/img/proyectos/hero.png" alt="hero" class="img-fluid w-100" style="min-height: 240px; object-fit: cover;">
 
             <div class="position-absolute top-50 start-50 translate-middle text-center px-3">
                 <h1 class="text-uppercase text-white fs-1 fw-bold">La Revolución de la Cocina Mexicana</h1>
@@ -14,8 +14,8 @@
 
         <!-- Seccion Quantia -->
         <section class="bg--white">
-            <div class="grid--2cols gap--24 mw--1440 px-5 mx-auto py-5">
-                <div class="align-content-center ps-5">
+            <div class="grid--2cols gap--24 mw--1440 px-4 px-md-5 mx-auto py-5">
+                <div class="align-content-center ps-md-5">
                     <h2 class="text--2xl dm-sans dm-sans--700">Quantia</h2>
                     <p class="text--md text--grey dm-sans dm-sans--400 mt-4">
                         Quantía se especializa en arquitectura y desarrollo de proyectos en Puerto Escondido. Ofrece servicios integrales que abarcan asesoría técnica, diseño, supervisión y construcción. Han finalizado 8 proyectos (casas, hoteles y restaurantes) y actualmente se encuentran desarrollando nueve, todos en Puerto Escondido.
@@ -47,8 +47,8 @@
 
         <!-- Seccion Padelstress -->
         <section class="bg--white">
-            <div class="grid--2cols gap--24 mw--1440 px-5 mx-auto py-5">
-                <div class="align-content-center ps-5">
+            <div class="grid--2cols gap--24 mw--1440 px-4 px-md-5 mx-auto py-5">
+                <div class="align-content-center ps-md-5">
                     <h2 class="text--2xl dm-sans dm-sans--700">Padelstress</h2>
                     <p class="text--md text--grey dm-sans dm-sans--400 mt-4">
                         Un emocionante proyecto en Lerma que combina deporte, comercio y wellness. Ubicado estratégicamente, el espacio ofrece múltiples canchas de pádel tenis y pickleball que se complementan con servicios y comercios que enriquecen la experiencia de sus usuarios. 
@@ -73,8 +73,8 @@
 
         <!-- Seccion GYRA -->
         <section class="bg--white">
-            <div class="grid--2cols gap--24 mw--1440 px-5 mx-auto py-5">
-                <div class="align-content-center ps-5">
+            <div class="grid--2cols gap--24 mw--1440 px-4 px-md-5 mx-auto py-5">
+                <div class="align-content-center ps-md-5">
                     <h2 class="text--2xl dm-sans dm-sans--700">GYRA</h2>
                     <p class="text--md text--grey dm-sans dm-sans--400 mt-4">
                         GYRA se especializa en la implementación de sistemas de respaldo de energía inteligentes y sostenibles para hogares, negocios y hoteles, especialmente en zonas con baja confiabilidad eléctrica.  
@@ -93,9 +93,9 @@
 
         <!-- Seccion emprendimientos -->
         <section class="bg--white">
-            <div class="grid--2cols gap--24 mw--1440 px-5 mx-auto py-5">
-                <div class="align-content-center ps-5">
-                    <h2 class="text--2xl dm-sans dm-sans--700">Pequeños emprendimientos</h2>
+            <div class="grid--2cols gap--24 mw--1440 px-4 px-md-5 mx-auto py-5">
+                <div class="align-content-center ps-md-5">
+                    <h2 class="text--2xl dm-sans dm-sans--700" style="word-break: break-all">Pequeños emprendimientos</h2>
                     <p class="text--md text--grey dm-sans dm-sans--400 mt-4">
                         Nuestro portafolio también incluye a algunos emprendedores con necesidad de un respaldo financiero, que sea flexible y que les permita utilizarlo en el momento y en la cantidad necesaria. Estas líneas financieras complementan el portafolio al ser rentables y al estar respaldadas con una garantía prendaria.
                     </p>

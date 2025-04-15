@@ -16,7 +16,7 @@ Flight::route('/about', function () {
     Flight::render('about.php', array('title' => 'About'));
 });
 
-Flight::route('/proyectos', function () {
+Flight::route('/portafolio', function () {
     Flight::render('proyectos.php', array('title' => 'Proyectos'));
 });
 
